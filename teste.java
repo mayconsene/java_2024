@@ -1,7 +1,7 @@
 teste java após alterações./**
- * teste
+ * Renato
  */
-public class teste {
+public class Renato {
 
     
 }
